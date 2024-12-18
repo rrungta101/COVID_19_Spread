@@ -1,3 +1,3 @@
-# Data 100 Final
+# DATA 100 Final Project
 
 Rohit Rungta, Brian Law
